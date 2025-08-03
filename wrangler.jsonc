@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "test-test-interveiw",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "openapi-template-db-ken",
+      "database_id": "d9461bff-6842-4170-90d6-a6806ef46e4d"
+    }
+  ]
+}
